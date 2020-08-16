@@ -1,0 +1,164 @@
+/* #f9f7f7
+#dbe2ef
+#3f72af
+#112d4e
+*/
+body {
+  background-color: #f9f7f7;
+  color: #112d4e;
+  display: block;
+  margin: 25px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.25;
+}
+
+hr {
+  border-color: #3f72af;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 20%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 15px;
+}
+
+
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Pacifico', cursive;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-weight: 300;
+  font-size: 20px;
+  padding: 10px 25px;
+  background-color: #f9f7f7;
+  opacity: 0.85;
+  width: 70%;
+  margin: 0 auto;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1.75px;
+  border-color: #112d4e;
+}
+
+li:hover {
+  background-color: #9fbfdf;
+}
+
+.bg{
+  background-image: url("image/sea.jpeg");
+  background-size: 100%;
+}
+
+.top {
+  padding-top: 80px;
+  padding-bottom: 350px;
+  text-align: center;
+}
+
+#profile {
+  display: inline;
+  width: 20%;
+}
+
+.aboutme2{
+  text-align: center;
+}
+.aboutme {
+  display: inline-block;
+  width: 30%;
+  text-align: justify;
+  padding-right: 10px;
+  padding-left: 10px;
+  vertical-align: top;
+  font-size: 20px;
+}
+
+#view1, #view2 {
+  display: inline;
+  width: 20%;
+  margin: 10px;
+}
+
+.beu {
+  text-align: center;
+}
+
+.des-1 {
+  padding: 0 150px 20px 150px;
+  border-style: none;
+  text-align: justify;
+  margin: 10px auto;
+  font-size: 17px;
+}
+
+
+#jan, #feb, #mar, #apr, #may, #june, #july, #aug, #sept, #oct, #nov, #dec {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+  width: 40%;
+}
+
+.others {
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #dbe2ef;
+  padding: 20px 0 20px 0;
+  margin: 40px auto;
+  font-size: 30px
+}
+
+#v1, #v2, #v3, #v4, #v5, #v6, #v7, #v8, #v9, #v10, #v11, #v12, #v13, #v14, #v15, #v16, #v17, #v18 {
+  width: 25%;
+  padding: 5px;
+}
+
+#arch3, #arch4, #arch5, #arch6, #arch7 {
+  width: 20%;
+  padding: 5px;
+}
+
+#light2, #light3 {
+  width: 25%;
+  padding: 5px;
+}
+
+.bottom {
+  text-align: center;
+  background-image: url("image/sea.jpeg");
+}
+
+.contactlink {
+  margin-top: 30px;
+}
+
+.name {
+  font-size: 70px;
+  color: #3f72af;
+  font-weight: bold;
+  letter-spacing: 5px;
+  font-family: 'Pacifico', cursive;
+  margin-bottom: 15px;
+}
